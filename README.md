@@ -14,15 +14,6 @@ This project demonstrates the implementation of unit testing, integration testin
 3. Review the tutorial provided by Professor Youssfi to understand the project structure and testing approach.
 4. Run the tests using your preferred testing framework or IDE.
 
-## Project Structure
-The project is organized as follows:
-Spring-Application-Testing/
-├── src/
-│   ├── main/
-│   └── test/
-├── pom.xml
-└── README.md
-
 ## Usage
 This project is primarily for educational purposes, demonstrating the integration of various testing frameworks and techniques. You can use this as a reference or starting point for your own projects that involve testing Spring-based applications.
 
